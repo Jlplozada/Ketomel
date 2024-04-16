@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(238, 229, 218);
+}
+
+.principal_navegador{
+    background-color: rgb(94, 33, 42);
+    flex-direction: column;
+    list-style: none;
+    color: brown;
+}
