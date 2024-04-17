@@ -1,13 +1,11 @@
 body{
-    background-color: rgb(238, 229, 218);
+    background-color: rgb(250, 232, 210);
 }
 
-.principal_navegador{
-    width: auto;
+.principal_navegador,ul{
     background-color: rgb(94, 33, 42);
-    list-style: none;
-    color: brown;
+    list-style-type: none;
 }
-div{
-    width: auto;
+.principal_navegador,ul,li{
+    color: black;
 }
