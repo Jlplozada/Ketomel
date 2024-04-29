@@ -6,7 +6,9 @@ body{
 .principal_navegador,ul{
     background-color: rgb(94, 33, 42);
     list-style-type: none;
+
 }
-.principal_navegador,ul,li{
-    color: black;
+.opciones_navegador{
+    background-color: aliceblue;
+    margin: 1;
 }
