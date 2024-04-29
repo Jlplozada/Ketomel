@@ -1,11 +1,9 @@
 body{
-    background-color: rgb(250, 232, 210);
+    margin: 0
+;
+    background-color: rgb(98, 177, 247);
+    padding: 0;
 }
-
-.principal_navegador,ul{
-    background-color: rgb(94, 33, 42);
-    list-style-type: none;
-}
-.principal_navegador,ul,li{
-    color: black;
+.principal_navegador{
+    background-color: brown;
 }
